@@ -1,0 +1,11 @@
+Question 1:
+
+Dart entry point is the starting point of my dart code, this is typically the 'main()' function. 
+This function is the first to be executed as soon as my dart program is run.
+
+Question 5:
+
+var value = 10 / 2;
+
+'value' is a double
+

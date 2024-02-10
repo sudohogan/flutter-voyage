@@ -1,0 +1,13 @@
+Question 6:
+
+- true && true
+The result is true because of the AND operator
+
+- false || false
+The result is false because the OR operator checks if both one of the conditions is valid but since  they're both set to false then the result is false.
+
+- (true && 1 != 2) || (4 > 3 && 100 < 1)
+The result is true because the first part of the expression results to true and the OR operator only needs one condition to be true.
+
+- ((10 / 2) > 3) && ((10 % 2) == 0)
+The result is true as the left and right hand sides of the equation are true and the AND operator requires both conditions to be true.
